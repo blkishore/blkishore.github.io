@@ -1427,3 +1427,38 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+/* Classes to replace inline styles */
+.author-img {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%; }
+
+.slider-bg-1 {
+  background-image: url(../images/IMG_4571.jpg) !important; }
+
+.slider-bg-2 {
+  background-image: url(../images/img_bg_2.jpg) !important; }
+
+.counter-bg {
+  background-image: url(../images/cover_bg_1.jpg) !important;
+  background-attachment: fixed; }
+
+.project-video {
+  position: relative;
+  overflow: hidden; }
+
+.project-img-3 {
+  background-image: url(../images/img-3.jpg) !important;
+  background-size: 100%; }
+
+.project-img-4 {
+  background-image: url(../images/img-4.jpg) !important; }
